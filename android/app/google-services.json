@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958809572043",
+    "project_id": "spazio-5544b",
+    "storage_bucket": "spazio-5544b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958809572043:android:2ae1246b2b966f9185114e",
+        "android_client_info": {
+          "package_name": "com.example.e_wize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6AfgEDz76Q0akEWm0VNyBOMm2Wt7iQL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958809572043:android:4fac9643d0bb3dde85114e",
+        "android_client_info": {
+          "package_name": "com.example.event_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6AfgEDz76Q0akEWm0VNyBOMm2Wt7iQL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
